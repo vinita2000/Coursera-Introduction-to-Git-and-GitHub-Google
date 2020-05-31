@@ -33,7 +33,7 @@ Which command would we use to look at our config?
 
 ***ANSWER***
 
-g**Git config -l**
+**Git config -l**
 
 
 **5.Question 5**
