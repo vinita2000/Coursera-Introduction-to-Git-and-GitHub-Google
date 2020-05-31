@@ -2,7 +2,7 @@
 Your colleague sent you a patch called fix_names.patch, which fixes a config file called fix_names.conf. 
 What command do you need to run to apply the patch to the config file?
 ANSWER:
-**patch fix_names.conf < fix_names.patch**
+-patch fix_names.conf < fix_names.patch
 
 
 
